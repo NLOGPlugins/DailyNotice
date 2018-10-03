@@ -1,0 +1,9 @@
+---
+name: DailyNotice
+main: nlog\DailyNotice\DailyNotice
+version: "1.0"
+author: nlog
+api:
+- 4.0.0
+- 3.0.7
+...
