@@ -1,6 +1,9 @@
 # DailyNotice
 Send Form when player join server
 
+## 기능
+> 서버 접속 시 뜨는 Form에서 ```하루동안 안보기``` 를 선택 시에 공지창이 하루 동안 보이지 않습니다.
+
 ### 접속 시 뜨는 메세지 설정
 ```<데이터폴더>/DailyNotice/setting.yml``` 을 열어주세요.
 
