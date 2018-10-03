@@ -7,6 +7,7 @@ Send Form when player join server
 ```title```은 Form의 제목, ```message```는 Form의 content 입니다.
 
 ```title과 message의 값에 아래의 변수를 사용할 수 있습니다.```
+>>
 | 변수            | 값                                              |
 |-----------------|-------------------------------------------------|
 | @playername     | 플레이어 이름                                   |
